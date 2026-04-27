@@ -1,6 +1,6 @@
 # 📱 AppCursoMoviles
 
-Repositorio del curso **Programación de Dispositivos Móviles (CC0A2A)** donde documento las tareas y prácticas asignadas durante el ciclo.
+Repositorio del curso **Programación de Dispositivos Móviles (CC0A2)** donde documento las tareas y prácticas asignadas durante el ciclo.
 
 ---
 
